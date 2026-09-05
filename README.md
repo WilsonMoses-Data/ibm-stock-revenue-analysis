@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/project-banner.png" alt="Tesla versus GameStop — Stock and Revenue Analysis, an IBM Python project by Wilson Moses" width="100%">
+</p>
+
 # Stock and Revenue Analysis: Tesla vs GameStop
 
 > An IBM Data Science Professional Certificate project using Python to extract, clean, and visualize historical market data.
@@ -6,7 +10,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Course](https://img.shields.io/badge/IBM-Data%20Science-052FAD?logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-**[View the completed notebook](stock_revenue_analysis.ipynb)**
+### [View the completed analysis notebook →](stock_revenue_analysis.ipynb)
 
 ## Project overview
 
@@ -52,6 +56,7 @@ GameStop's 2021 share-price surge was not accompanied by a comparable sustained 
 ibm-stock-revenue-analysis/
 ├── assets/
 │   ├── gamestop-stock-revenue.png
+│   ├── project-banner.png
 │   └── tesla-stock-revenue.png
 ├── stock_revenue_analysis.ipynb
 ├── requirements.txt
@@ -81,3 +86,13 @@ The notebook retains its key outputs so the analysis can also be reviewed direct
 Completed as part of the **Python Project for Data Science** course in the IBM Data Science Professional Certificate. The analysis is presented here as evidence of practical learning; the explanatory framing and repository presentation have been adapted for Wilson Moses's data science portfolio.
 
 Data is sourced through `yfinance` and IBM Skills Network course-hosted pages. Results are educational and should not be interpreted as financial advice.
+
+---
+
+<p align="center">
+  <strong>Wilson Moses</strong><br>
+  Data Scientist × AI Engineer in Development<br>
+  <em>Learning. Building. Applying.</em><br><br>
+  <a href="https://github.com/WilsonMoses-Data">GitHub Profile</a> ·
+  <a href="https://www.linkedin.com/in/wilson-moses-9207b22bb">LinkedIn</a>
+</p>
